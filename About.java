@@ -6,7 +6,7 @@
 /*
  * About.java
  *
- * Created on Aug 19, 2010, 2:51:32 PM
+ * Created on Aug 19, 2010, 2:51:32 PM Steve
  */
 
 package mp3metagen;
