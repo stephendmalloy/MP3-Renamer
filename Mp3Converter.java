@@ -54,7 +54,8 @@ public class Mp3Converter extends Thread {
 
             for (int i = 0; i < listOfFiles.size(); i++) {
 
-                // TODO windows will not have this slash...
+                // TODO - We need to account for Windows here. The file path format should change.
+                // System.getProperty("os.name")
                 String fileName = mcg.mp3Path + "/" + (String) listOfFiles.get(i);
 
                 mcg.updateOutput("Attempting to convert " + fileName + "\r\n");
