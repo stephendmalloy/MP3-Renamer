@@ -13,7 +13,7 @@ package mp3metagen;
 
 /**
  *
- * @author stephenmalloy
+ * @author stephenmalloy - stephendmalloy@gmail.com
  */
 
 import java.awt.Frame;
